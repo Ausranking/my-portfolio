@@ -1,101 +1,9 @@
 [
   {
-    "id": "6",
-    "logo": "https://res.cloudinary.com/thekachi/image/upload/v1675598875/inferus-hero_blpsfq.png",
-    "title": "inferus",
-    "skills": ["React", "Next.js", "Tailwind", "RainbowKit"],
-    "github": "",
-    "website": "https://www.inferus.xyz/",
-    "description": "A wallet aggregation tool that simplifies the crypto payment process by allowing users to aggregate wallet addresses from existing wallets and exchanges",
-    "tag": "#055DF5",
-    "slug": "inferus",
-    "slides": [
-      {
-        "src": "https://res.cloudinary.com/thekachi/image/upload/v1675598875/inferus-hero_blpsfq.png"
-      },
-      {
-        "src": "https://res.cloudinary.com/thekachi/image/upload/v1675642814/Inferus-1_qilqir.png"
-      },
-      {
-        "src": "https://res.cloudinary.com/thekachi/image/upload/v1675642781/Screen_Shot_2023-02-01_at_9.39.18_AM_dsewnw.png"
-      }
-    ]
-  },
-  {
-    "id": "5",
-    "logo": "https://res.cloudinary.com/thekachi/image/upload/v1675598947/prospero-new_um4htr.png",
-    "title": "Prospero",
-    "skills": ["Vue 3", "Composition API", "Tailwind", "Ethers.js"],
-    "github": "",
-    "website": "https://prospero-three.vercel.app/",
-    "description": "A user-friendly, decentralized(defi) portfolio manager for investing, and managing crypto assets",
-    "tag": "#00ff00",
-    "slug": "prospero",
-    "slides": [
-      {
-        "src": "https://res.cloudinary.com/thekachi/image/upload/v1675598947/prospero-new_um4htr.png"
-      },
-      {
-        "src": "https://res.cloudinary.com/thekachi/image/upload/v1675642226/Screen_Shot_2023-02-06_at_1.09.37_AM_c0vleo.png"
-      },
-      {
-        "src": "https://res.cloudinary.com/thekachi/image/upload/v1675642228/Screen_Shot_2023-02-06_at_1.09.13_AM_to6dw0.png"
-      }
-    ]
-  },
-  {
-    "id": "4",
-    "logo": "https://res.cloudinary.com/thekachi/image/upload/v1650134832/Screen_Shot_2022-04-16_at_7.46.15_PM_gl2q4g.png",
-    "title": "Alaajo",
-    "skills": ["Vuex", "Nuxt", "Bootstrap", "REST API"],
-    "github": "",
-    "website": "https://alaajo.com/",
-    "description": "A web app for saving, and peer to peer lending",
-    "tag": "rgb(255, 23, 23)",
-    "slug": "alaajo",
-    "slides": [
-      {
-        "src": "https://res.cloudinary.com/thekachi/image/upload/v1650134832/Screen_Shot_2022-04-16_at_7.46.15_PM_gl2q4g.png"
-      },
-      {
-        "src": "https://res.cloudinary.com/thekachi/image/upload/v1675640464/Screen_Shot_2023-02-06_at_12.39.25_AM_txuzc3.png"
-      },
-      {
-        "src": "https://res.cloudinary.com/thekachi/image/upload/v1675640461/Screen_Shot_2023-02-06_at_12.39.53_AM_qpux8j.png"
-      }
-    ]
-  },
-  {
-    "id": "3",
-    "logo": "https://res.cloudinary.com/thekachi/image/upload/v1650139864/Screen_Shot_2022-04-16_at_9.10.20_PM_cidarw.png",
-    "title": "Yebox v2",
-    "skills": ["Nuxt", "SCSS", "Bootstrap 5"],
-    "github": "",
-    "website": "https://www.yebox.io/",
-    "description": "Landing page for a web design and development agency",
-    "tag": "#8BC34A",
-    "slug": "yebox",
-    "slides": [
-      {
-        "src": "https://res.cloudinary.com/thekachi/image/upload/v1650139864/Screen_Shot_2022-04-16_at_9.10.20_PM_cidarw.png"
-      },
-      {
-        "src": "https://res.cloudinary.com/thekachi/image/upload/v1675639814/Screen_Shot_2023-02-06_at_12.29.35_AM_kh7vwx.png"
-      },
-      {
-        "src": "https://res.cloudinary.com/thekachi/image/upload/v1675639824/Screen_Shot_2023-02-06_at_12.28.27_AM_fap1uv.png"
-      },
-      {
-        "src": "https://res.cloudinary.com/thekachi/image/upload/v1675639817/Screen_Shot_2023-02-06_at_12.25.46_AM_yx8dio.png"
-      }
-    ]
-  },
-  {
     "id": "2",
     "logo": "https://res.cloudinary.com/thekachi/image/upload/v1647533832/Screen_Shot_2022-03-17_at_5.16.01_PM_kvc1zc.png",
     "title": "Countrypedia",
     "skills": ["Nuxt", "Tailwind", "REST API"],
-    "github": "https://github.com/TheKachi/countrypedia",
     "website": "https://country-api-wine.vercel.app/",
     "description": "Weekend project - On countrypedia, you can search for any country or capital in the world and get very vital information.",
     "tag": "hsl(209, 23%, 22%)",
@@ -117,20 +25,39 @@
   },
   {
     "id": "1",
-    "logo": "https://res.cloudinary.com/thekachi/image/upload/v1675638800/Screen_Shot_2023-02-06_at_12.12.52_AM_mfiojn.png",
+    "logo": "https://res.cloudinary.com/ddqu2owjp/image/upload/v1695732709/folio_kznz2l.png",
     "title": "My Portfolio Website",
     "skills": ["Nuxt", "Tailwind"],
-    "github": "https://github.com/TheKachi/my-portfolio.git",
+    "github": "https://github.com/Ausranking/my-portfolio.git",
     "website": "https://thekachi.xyz",
-    "description": "Second iteration of my portfolio website. Built with Nuxt and Tailwind",
+    "description": "First iteration of my portfolio website. Building in progress...",
     "tag": "rgb(249 115 22)",
     "slug": "my-portfolio",
     "slides": [
       {
-        "src": "https://res.cloudinary.com/thekachi/image/upload/v1675638800/Screen_Shot_2023-02-06_at_12.12.52_AM_mfiojn.png"
+        "src": "https://res.cloudinary.com/ddqu2owjp/image/upload/v1695732709/folio_kznz2l.png"
       },
       {
-        "src": "https://res.cloudinary.com/thekachi/image/upload/v1675638623/Screen_Shot_2023-02-06_at_12.08.14_AM_makbru.png"
+        "src": "https://res.cloudinary.com/ddqu2owjp/image/upload/v1695732837/folio-light_ubono9.png"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "logo": "https://res.cloudinary.com/ddqu2owjp/image/upload/v1695730144/hero_bedsh5.png",
+    "title": "moviebox",
+    "skills": ["React", "Next.js", "Tailwind", "RainbowKit"],
+    "github": "",
+    "website": "https://moviebox-green.vercel.app/",
+    "description": "Movie Box is a dynamic web application that brings the world of movies to your fingertips. It leverages the power of the TMDb (The Movie Database) API to provide an immersive movie-watching experience. Users can browse a vast collection of movies, view detailed information about each film, and even watch trailers—all within a user-friendly interface.",
+    "tag": "#055DF5",
+    "slug": "moviebox",
+    "slides": [
+      {
+        "src": "https://res.cloudinary.com/ddqu2owjp/image/upload/v1695730144/hero_bedsh5.png"
+      },
+      {
+        "src": "https://res.cloudinary.com/ddqu2owjp/image/upload/v1695730145/grid_xldhth.png"
       }
     ]
   }

@@ -1,6 +1,6 @@
 <template>
   <nav class="flex justify-between items-center px-20 md:px-36 h-[64px]">
-    <nuxt-link to="/" class="no-underline font-bold">DN</nuxt-link>
+    <nuxt-link to="/" class="no-underline font-bold font-serif">AN</nuxt-link>
     <!-- theme toggler  -->
     <ThemeToggler />
   </nav>

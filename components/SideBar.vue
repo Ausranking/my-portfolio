@@ -11,7 +11,7 @@
             class="flex flex-col items-center gap-y-16 no-underline"
           >
             <i
-              class="hover:text-orange-500"
+              class="hover:text-emerald-500"
               :class="nav.icon"
               :aria-label="nav.title"
               :alt="`Link to my ${nav.title}`"
