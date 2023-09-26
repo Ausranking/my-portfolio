@@ -1,5 +1,5 @@
 [
-{
+  {
     "id": "2",
     "logo": "https://res.cloudinary.com/thekachi/image/upload/v1647533832/Screen_Shot_2022-03-17_at_5.16.01_PM_kvc1zc.png",
     "title": "Countrypedia",
@@ -23,13 +23,12 @@
       }
     ]
   },
-   {
+  {
     "id": "1",
     "logo": "https://res.cloudinary.com/ddqu2owjp/image/upload/v1695732709/folio_kznz2l.png",
     "title": "My Portfolio Website",
     "skills": ["Nuxt", "Tailwind"],
-    "github": "https://github.com/Ausranking/my-portfolio.git",
-    "website": "https://thekachi.xyz",
+    "website": "https://my-foliosite.netlify.app/",
     "description": "First iteration of my portfolio website. Building in progress...",
     "tag": "rgb(249 115 22)",
     "slug": "my-portfolio",
@@ -61,7 +60,7 @@
       }
     ]
   },
- 
+
   {
     "id": "4",
     "logo": "https://res.cloudinary.com/ddqu2owjp/image/upload/v1695734006/meta_mzzfx1.png",
@@ -84,7 +83,4 @@
       }
     ]
   }
-  
-  
 ]
-
