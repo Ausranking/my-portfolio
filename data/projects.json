@@ -83,32 +83,8 @@
         "src": "https://res.cloudinary.com/ddqu2owjp/image/upload/v1695735924/meta-mob_ovb0nc.png"
       }
     ]
-  },
-  {
-    "id": "3",
-    "logo": "https://res.cloudinary.com/thekachi/image/upload/v1650139864/Screen_Shot_2022-04-16_at_9.10.20_PM_cidarw.png",
-    "title": "Yebox v2",
-    "skills": ["Nuxt", "SCSS", "Bootstrap 5"],
-    "github": "",
-    "website": "https://www.yebox.io/",
-    "description": "Landing page for a web design and development agency",
-    "tag": "#8BC34A",
-    "slug": "yebox",
-    "slides": [
-      {
-        "src": "https://res.cloudinary.com/thekachi/image/upload/v1650139864/Screen_Shot_2022-04-16_at_9.10.20_PM_cidarw.png"
-      },
-      {
-        "src": "https://res.cloudinary.com/thekachi/image/upload/v1675639814/Screen_Shot_2023-02-06_at_12.29.35_AM_kh7vwx.png"
-      },
-      {
-        "src": "https://res.cloudinary.com/thekachi/image/upload/v1675639824/Screen_Shot_2023-02-06_at_12.28.27_AM_fap1uv.png"
-      },
-      {
-        "src": "https://res.cloudinary.com/thekachi/image/upload/v1675639817/Screen_Shot_2023-02-06_at_12.25.46_AM_yx8dio.png"
-      }
-    ]
   }
   
- 
+  
 ]
+

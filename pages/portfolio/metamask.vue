@@ -13,13 +13,11 @@ export default {
       project: {
         description: [
           "Responsible for building 90% of the front end with minimal supervision",
-          "Connected the web app to external fintech APIs like Stripe and Mono for various features such as Account name verification, Credit Score Checks, and Card & Web Payments.",
-          "Designed the platform to handle a large number of users and transactions, but it was important to ensure that the platform could handle the load without any downtime or performance issues.",
-          "Implemented a custom authentication system using JWT and Redis to ensure that the platform was secure and could handle a large number of users.",
+           "Implemented a custom authentication system using JWT and Redis to ensure that the platform was secure and could handle a large number of users.",
           "Set up various performance testing and monitoring tools to identify and address any bottlenecks in the system ",
         ],
         outcome: [
-          "A highly efficient and scalable platform that can handle a high volume of transactions and user activity.",
+          "A highly efficient and scalable platform thatprovide you access to luxury and affordable houses in the metaverse, get a chance to turn your imagination to a reality at your comfort zone.",
         ],
       },
     };
