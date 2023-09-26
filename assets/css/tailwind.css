@@ -23,7 +23,7 @@
   }
 
   a {
-    @apply text-brown dark:text-slate-100 hover:text-brown decoration-brown dark:decoration-slate-100 hover:decoration-orange-500 underline underline-offset-2 transform transition duration-500;
+    @apply text-brown dark:text-slate-100 hover:text-brown decoration-brown dark:decoration-slate-100 hover:decoration-emerald-500 underline underline-offset-2 transform transition duration-500;
   }
 
   h2,
