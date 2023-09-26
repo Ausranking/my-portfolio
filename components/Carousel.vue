@@ -19,7 +19,7 @@
       </v-app>
     </div>
     <div class="hidden md:block">
-      <v-app class="h-[520px] w-full">
+      <v-app class="h-[525px] w-full">
         <v-carousel
           cycle
           interval="3000"
