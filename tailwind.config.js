@@ -42,6 +42,7 @@ module.exports = {
       100: "100px",
       120: "120px",
       180: "180px",
+      200: '200px'
     },
 
     extend: {
