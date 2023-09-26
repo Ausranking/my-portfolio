@@ -30,17 +30,17 @@ export default {
       navs: [
         {
           title: "Github",
-          link: "https://github.com/thekachi",
+          link: "https://github.com/ausranking",
           icon: "fab fa-github",
         },
         {
           title: "Linkedin",
-          link: "https://linkedin.com/in/thekachi",
+          link: "https://linkedin.com/in/austin-nze",
           icon: "fab fa-linkedin-in",
         },
         {
           title: "Email",
-          link: "mailto:thekachinze@gmail.com",
+          link: "mailto:austinnze1000@gmail.com",
           icon: "fas fa-envelope",
         },
       ],

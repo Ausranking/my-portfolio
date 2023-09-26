@@ -5,11 +5,11 @@
     <!-- Bio  -->
     <div class="mt-60 md:mt-0">
       <h1 class="text-xl -mb-16 ml-[6px]">Hi there, my name is</h1>
-      <h2 class="font-futurabold text-4xl lg:text-6xl">Dikachi Nze</h2>
+      <h2 class="font-futurabold text-4xl lg:text-6xl">Austin Nze</h2>
       <div class="text-xl w-full lg:max-w-lg">
         <p>
           I'm a
-          <span class="text-orange-500 font-bold">frontend web engineer</span>
+          <span class="text-emerald-500 font-bold">frontend web engineer</span>
           from Lagos, Nigeria who really enjoys building digital products that
           <span class="font-bold">scale</span>, are innovative, performant and
           <span class="font-bold"> accessible</span>
@@ -25,7 +25,7 @@
           <li
             v-for="skill in skills"
             :key="skill"
-            class="before:content-['✓'] before:mr-0 md:before:mr-4 before:text-orange-500 text-base md:text-lg font-mono"
+            class="before:content-['✓'] before:mr-0 md:before:mr-4 before:text-emerald-500 text-base md:text-lg font-mono"
           >
             {{ skill }}
           </li>
@@ -36,7 +36,7 @@
     <!-- Download my CV / Scroll  -->
     <div class="flex justify-between items-center">
       <a
-        href="https://docs.google.com/document/d/1p6YbXdZC-HS3qgKRvi5nNAgRLla9RnoPSEASJBLqy0E/edit?usp=sharing"
+        href="https://docs.google.com/document/d/1oLwFEWg6Gn6SBmZD1d63bsdJC9eWd1NM---1bI0brfw/edit?usp=sharing"
         target="blank"
         >Download my CV?</a
       >
@@ -60,14 +60,10 @@ export default {
     skills: [
       "TypeScript",
       "JavaScript",
-      "Vue",
-      "Nuxt",
       "React",
       "Next",
       "Tailwind",
       "(S)CSS",
-      "Pinia",
-      "Ethers.js",
       "AWS",
       "Semantic HTML",
     ],

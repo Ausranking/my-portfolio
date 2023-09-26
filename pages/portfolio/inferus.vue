@@ -6,20 +6,19 @@
 
 <script>
 export default {
-  name: "InferusPage",
+  name: "MovieBox page",
   layout: "portfolio",
   data() {
     return {
       project: {
         outcome: [
-          "This product is currently in beta testing and the MVP would be released shortly after, this tool is poised to change the way people interact with digital assets and streamline their usage.",
+          "This product is currently in beta testing and the MVP would be released shortly after, this tool is aimed at providing user's with unlimmited movie stream.",
         ],
         description: [
-          "Developed a revolutionary wallet aggregation tool that simplifies the crypto payment process by allowing users to aggregate wallet addresses from existing wallets and exchanges into a single payment link.",
-          "Handled the UI development using React, Next.js, Tailwind CSS, and RainbowKit.",
+          "Developed a revolutionary Movie aggregation tool that simplifies the  process of streaming movies by allowing users to intereact with TMDB",
+          "Handled the UI development using React, Tailwind CSS, and RainbowKit.",
           "Ensured that the platform was highly secure and compliant with all relevant regulations.",
-          "Implemented various security measures such as encryption and secure key management to protect users' data and funds.",
-          "Worked closely with the smart contract and integration team to ensure that the platform was fully integrated with existing wallets and exchanges.",
+          "Worked closely with the smart contract and integration team to ensure that the platform provides most current Tv series.",
         ],
       },
     };
