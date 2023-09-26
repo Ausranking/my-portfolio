@@ -46,7 +46,7 @@
     "id": "6",
     "logo": "https://res.cloudinary.com/ddqu2owjp/image/upload/v1695730144/hero_bedsh5.png",
     "title": "moviebox",
-    "skills": ["React", "Next.js", "Tailwind", "RainbowKit"],
+    "skills": ["React", "Tailwind", "REST API"],
     "github": "",
     "website": "https://moviebox-green.vercel.app/",
     "description": "Movie Box is a dynamic web application that brings the world of movies to your fingertips. It leverages the power of the TMDb (The Movie Database) API to provide an immersive movie-watching experience. Users can browse a vast collection of movies, view detailed information about each film, and even watch trailers—all within a user-friendly interface.",
