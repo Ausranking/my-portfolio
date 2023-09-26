@@ -17,7 +17,7 @@ export default {
           "Set up various performance testing and monitoring tools to identify and address any bottlenecks in the system ",
         ],
         outcome: [
-          "A highly efficient and scalable platform thatprovide you access to luxury and affordable houses in the metaverse, get a chance to turn your imagination to a reality at your comfort zone.",
+          "A highly efficient and scalable platform that provide you access to luxury and affordable houses in the metaverse, get a chance to turn your imagination to a reality at your comfort zone.",
         ],
       },
     };
