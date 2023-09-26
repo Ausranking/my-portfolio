@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="block md:hidden -mx-[10px]">
-      <v-app class="h-[210px]">
+      <v-app class="h-[215px]">
         <v-carousel
           cycle
           interval="3000"
