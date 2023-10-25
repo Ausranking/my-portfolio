@@ -29,7 +29,7 @@
 
       <div class="pt-12 pb-32 px-16 md:pr-24 lg:pl-0">
         <!-- description  -->
-        <p class="text-base md:text-[20px]">{{ project.description }}</p>
+        <p class="text-base md:text-[18px]">{{ project.description }}</p>
       </div>
     </div>
   </NuxtLink>

@@ -1,5 +1,28 @@
 [
   {
+    "id": "5",
+    "logo": "https://res.cloudinary.com/ddqu2owjp/image/upload/v1698243994/shortly_view_e0ct2h.png",
+    "title": "Shortlify",
+    "skills": ["React", "Tailwindcss", "Redux", "Daisyui", ""],
+    "github": "https://github.com/Ausranking/shortlify",
+    "website": "https://shortlify-eta.vercel.app/",
+    "description": "A Web based App that improve brand awareness and content discoverability through customizable links. superchanging audience engagement.",
+    "tag": " rgb(127,0,255)",
+    "slug": "shortlify",
+    "slides": [
+      {
+        "src": "https://res.cloudinary.com/ddqu2owjp/image/upload/v1698243994/shortly_view_e0ct2h.png"
+      },
+      {
+        "src": "https://res.cloudinary.com/ddqu2owjp/image/upload/v1698258125/shortlify_stat_view_jwyc3z.png"
+      },
+      {
+        "src": "https://res.cloudinary.com/ddqu2owjp/image/upload/v1698243993/shortlify_action_lmumqd.png"
+      }
+    ]
+  },
+
+  {
     "id": "2",
     "logo": "https://res.cloudinary.com/thekachi/image/upload/v1647533832/Screen_Shot_2022-03-17_at_5.16.01_PM_kvc1zc.png",
     "title": "Countrypedia",
