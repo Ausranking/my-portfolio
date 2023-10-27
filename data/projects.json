@@ -1,7 +1,7 @@
 [
   {
     "id": "5",
-    "logo": "https://res.cloudinary.com/ddqu2owjp/image/upload/v1698405460/new-hero_biowfg.png",
+    "logo": "https://res.cloudinary.com/ddqu2owjp/image/upload/v1698407629/desktop_dv0mcb.png",
     "title": "Shortlify",
     "skills": ["React", "Tailwindcss", "Redux", "Daisyui", ""],
     "github": "https://github.com/Ausranking/shortlify",
@@ -11,10 +11,13 @@
     "slug": "shortlify",
     "slides": [
       {
-        "src": "https://res.cloudinary.com/ddqu2owjp/image/upload/v1698405460/new-hero_biowfg.png"
+        "src": "https://res.cloudinary.com/ddqu2owjp/image/upload/v1698407629/desktop_dv0mcb.png"
       },
       {
         "src": "https://res.cloudinary.com/ddqu2owjp/image/upload/v1698258125/shortlify_stat_view_jwyc3z.png"
+      },
+      {
+        "src": "https://res.cloudinary.com/ddqu2owjp/image/upload/v1698407629/mobile_v1x2rr.png"
       },
       {
         "src": "https://res.cloudinary.com/ddqu2owjp/image/upload/v1698243993/shortlify_action_lmumqd.png"
